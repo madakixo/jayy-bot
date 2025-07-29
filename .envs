@@ -1,0 +1,6 @@
+TELEGRAM_TOKEN="your_telegram_bot_token"
+PAYSTACK_SECRET_KEY="your_paystack_secret_key"
+# Generate this once with the script, then paste it here to make it permanent
+ENCRYPTION_KEY="paste_the_generated_key_here"
+ADMIN_USER_ID="your_telegram_user_id" # Get your ID from @userinfobot on Telegram
+BOT_WEBHOOK_URL="https://your-app-name.herokuapp.com" # Example for Heroku
